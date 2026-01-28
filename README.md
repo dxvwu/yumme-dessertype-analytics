@@ -1,6 +1,6 @@
 # yumme-dessertype-analytics
 
-Analytics + SQL portfolio project for **Yumme.club — DessertType**, an illustrated personality quiz MVP.
+Analytics + SQL portfolio project for **Yumme.club: DessertType**, an illustrated personality quiz MVP.
 
 This repo documents a phase-based approach to product analytics:
 
