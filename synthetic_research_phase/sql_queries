@@ -1,0 +1,34 @@
+/* Phase 1 Insights — DessertType (Synthetic Survey) */
+
+SELECT COUNT(*) AS total_responses
+FROM survey_phase1;
+
+SELECT device, COUNT(*) AS n
+FROM survey_phase1
+GROUP BY device
+ORDER BY n DESC;
+
+SELECT discovery_source, COUNT(*) AS n
+FROM survey_phase1
+GROUP BY discovery_source
+ORDER BY n DESC;
+
+SELECT preferred_question_count, COUNT(*) AS n
+FROM survey_phase1
+GROUP BY preferred_question_count
+ORDER BY n DESC;
+
+SELECT preferred_result_format, COUNT(*) AS n
+FROM survey_phase1
+GROUP BY preferred_result_format
+ORDER BY n DESC;
+
+SELECT would_share_result, COUNT(*) AS n
+FROM survey_phase1
+GROUP BY would_share_result
+ORDER BY n DESC;
+
+SELECT would_download_card, COUNT(*) AS n
+FROM survey_phase1
+GROUP BY would_download_card
+ORDER BY n DESC;
