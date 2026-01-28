@@ -1,0 +1,151 @@
+response_id,response_date,quiz_frequency,discovery_source,device,what_matters_most,preferred_question_count,preferred_result_format,would_share_result,would_download_card,would_use_profile_icons,would_retake_to_collect
+R0001,2026-01-27,Weekly,Instagram,Mobile,Cute art,5-8,Card + stats,No,Maybe,Maybe,Yes
+R0002,2026-01-15,Monthly,Instagram,Mobile,Cute art,9-12,All of these,Maybe,Maybe,Maybe,Yes
+R0003,2026-01-24,Weekly,Discord,Desktop,Shareability,17+,Simple card,Maybe,Maybe,Maybe,Yes
+R0004,2026-01-06,Weekly,Instagram,Desktop,Speed,9-12,Card + stats,No,Maybe,No,No
+R0005,2026-01-02,Weekly,TikTok,Mobile,Accuracy,5-8,Card + stats,Maybe,Yes,Yes,Maybe
+R0006,2026-01-09,Weekly,Discord,Mobile,Accuracy,17+,Simple card,Yes,Yes,Maybe,Yes
+R0007,2026-01-24,Weekly,Friend/DM,Mobile,Funny results,17+,Simple card,Yes,Yes,Maybe,Maybe
+R0008,2026-01-09,Weekly,TikTok,Mobile,Accuracy,5-8,Story paragraph,No,No,Maybe,No
+R0009,2026-01-19,Daily,TikTok,Tablet,Shareability,9-12,All of these,Maybe,Maybe,Yes,Yes
+R0010,2026-01-10,Weekly,Instagram,Mobile,Speed,9-12,Simple card,Yes,Yes,Maybe,Yes
+R0011,2026-01-27,Weekly,Instagram,Tablet,Accuracy,9-12,Simple card,Yes,Yes,Maybe,Yes
+R0012,2026-01-29,Daily,TikTok,Mobile,Speed,5-8,Card + stats,Maybe,Yes,No,Yes
+R0013,2026-01-08,Weekly,TikTok,Mobile,Accuracy,9-12,All of these,Maybe,Yes,Yes,Yes
+R0014,2026-01-14,Weekly,Instagram,Mobile,Speed,5-8,Simple card,No,Maybe,No,Yes
+R0015,2026-01-24,Rarely,Discord,Desktop,Shareability,9-12,Simple card,Yes,No,No,No
+R0016,2026-01-24,Weekly,Discord,Desktop,Funny results,13-16,Card + stats,Maybe,Maybe,Yes,No
+R0017,2026-01-26,Rarely,Instagram,Tablet,Speed,13-16,Simple card,No,Yes,No,Maybe
+R0018,2026-01-09,Daily,Instagram,Mobile,Funny results,13-16,All of these,Yes,Yes,No,Yes
+R0019,2026-01-05,Rarely,Instagram,Desktop,Shareability,13-16,Card + stats,No,Yes,Maybe,Yes
+R0020,2026-01-19,Rarely,Friend/DM,Mobile,Funny results,5-8,Simple card,Maybe,Yes,No,Maybe
+R0021,2026-01-13,Weekly,TikTok,Desktop,Funny results,5-8,All of these,Maybe,Yes,Maybe,Yes
+R0022,2026-01-07,Monthly,TikTok,Mobile,Accuracy,17+,Simple card,Yes,Maybe,No,Maybe
+R0023,2026-01-11,Weekly,Friend/DM,Desktop,Cute art,17+,Simple card,Yes,Maybe,Yes,Maybe
+R0024,2026-01-21,Weekly,Search,Mobile,Cute art,9-12,Card + stats,Maybe,No,Maybe,Yes
+R0025,2026-01-04,Weekly,Discord,Mobile,Shareability,9-12,Simple card,Yes,Maybe,Yes,Maybe
+R0026,2026-01-01,Rarely,Discord,Mobile,Funny results,9-12,All of these,Maybe,No,Yes,No
+R0027,2026-01-24,Monthly,Discord,Mobile,Cute art,13-16,Card + stats,Maybe,Yes,Yes,Yes
+R0028,2026-01-22,Rarely,Instagram,Desktop,Accuracy,9-12,Card + stats,Maybe,Yes,Yes,No
+R0029,2026-01-22,Weekly,Discord,Mobile,Accuracy,5-8,Simple card,No,Maybe,Maybe,Maybe
+R0030,2026-01-10,Rarely,Instagram,Mobile,Accuracy,9-12,All of these,Maybe,No,Yes,Maybe
+R0031,2026-01-07,Monthly,Friend/DM,Mobile,Shareability,9-12,All of these,Yes,Maybe,No,Maybe
+R0032,2026-01-30,Weekly,Instagram,Mobile,Funny results,17+,All of these,Yes,Yes,Maybe,Yes
+R0033,2026-01-07,Weekly,Instagram,Mobile,Funny results,13-16,Card + stats,Yes,No,Maybe,Yes
+R0034,2026-01-25,Daily,Other,Tablet,Speed,9-12,Card + stats,Yes,Yes,Yes,No
+R0035,2026-01-03,Rarely,Friend/DM,Mobile,Cute art,9-12,All of these,Yes,Maybe,Maybe,Maybe
+R0036,2026-01-15,Rarely,Instagram,Mobile,Cute art,5-8,Simple card,Yes,Yes,Yes,No
+R0037,2026-01-22,Weekly,Search,Mobile,Shareability,13-16,All of these,No,Maybe,Maybe,Maybe
+R0038,2026-01-09,Monthly,Discord,Mobile,Cute art,13-16,Card + stats,Yes,Yes,No,Yes
+R0039,2026-01-18,Weekly,Friend/DM,Desktop,Accuracy,9-12,Card + stats,Yes,No,Yes,No
+R0040,2026-01-03,Weekly,Instagram,Desktop,Shareability,9-12,Card + stats,Maybe,Maybe,Yes,Maybe
+R0041,2026-01-27,Rarely,Friend/DM,Desktop,Speed,9-12,All of these,Maybe,Maybe,Yes,Maybe
+R0042,2026-01-24,Rarely,TikTok,Mobile,Speed,9-12,Simple card,Maybe,Yes,No,Maybe
+R0043,2026-01-01,Weekly,Search,Mobile,Accuracy,13-16,All of these,No,No,Maybe,Maybe
+R0044,2026-01-09,Monthly,Discord,Tablet,Accuracy,5-8,Story paragraph,Maybe,Maybe,Maybe,Yes
+R0045,2026-01-20,Weekly,Instagram,Desktop,Speed,13-16,Simple card,No,Maybe,Maybe,Yes
+R0046,2026-01-11,Rarely,Discord,Mobile,Cute art,13-16,Simple card,Maybe,Yes,Yes,No
+R0047,2026-01-14,Monthly,Friend/DM,Mobile,Accuracy,9-12,Simple card,Yes,No,Maybe,No
+R0048,2026-01-02,Weekly,Friend/DM,Desktop,Shareability,9-12,Simple card,Yes,No,No,Yes
+R0049,2026-01-01,Monthly,TikTok,Mobile,Shareability,9-12,Story paragraph,Yes,Yes,Yes,Yes
+R0050,2026-01-14,Weekly,Search,Mobile,Shareability,5-8,All of these,Yes,Yes,Yes,No
+R0051,2026-01-29,Monthly,Search,Mobile,Cute art,9-12,Card + stats,No,Yes,Yes,No
+R0052,2026-01-04,Daily,Other,Mobile,Funny results,13-16,All of these,Yes,Maybe,Yes,Maybe
+R0053,2026-01-19,Daily,Friend/DM,Mobile,Cute art,5-8,Card + stats,Yes,No,Maybe,Yes
+R0054,2026-01-20,Rarely,Instagram,Mobile,Speed,17+,Story paragraph,No,Yes,No,Maybe
+R0055,2026-01-16,Monthly,Friend/DM,Mobile,Cute art,5-8,Card + stats,Maybe,Maybe,Yes,Maybe
+R0056,2026-01-03,Rarely,Friend/DM,Mobile,Cute art,9-12,Card + stats,Maybe,Yes,Maybe,Yes
+R0057,2026-01-26,Weekly,Friend/DM,Tablet,Cute art,9-12,All of these,Yes,Yes,Yes,Maybe
+R0058,2026-01-19,Monthly,Search,Mobile,Cute art,9-12,Story paragraph,Yes,Yes,Yes,Yes
+R0059,2026-01-18,Weekly,TikTok,Mobile,Cute art,13-16,Story paragraph,Yes,Yes,Yes,Maybe
+R0060,2026-01-17,Rarely,TikTok,Tablet,Funny results,9-12,Card + stats,Maybe,Maybe,Maybe,Yes
+R0061,2026-01-18,Weekly,Friend/DM,Mobile,Cute art,9-12,Card + stats,Yes,Yes,Maybe,Yes
+R0062,2026-01-26,Weekly,Discord,Mobile,Speed,17+,Card + stats,Yes,Maybe,Maybe,Yes
+R0063,2026-01-10,Rarely,Instagram,Mobile,Cute art,17+,Card + stats,No,Yes,Maybe,Maybe
+R0064,2026-01-28,Daily,Friend/DM,Desktop,Cute art,17+,All of these,Maybe,Maybe,Yes,Yes
+R0065,2026-01-17,Weekly,Search,Mobile,Accuracy,9-12,Story paragraph,No,No,Yes,Yes
+R0066,2026-01-13,Daily,Discord,Desktop,Shareability,5-8,Card + stats,Yes,Yes,No,Yes
+R0067,2026-01-24,Rarely,Search,Desktop,Cute art,17+,All of these,No,Yes,Yes,Yes
+R0068,2026-01-19,Weekly,TikTok,Mobile,Funny results,13-16,Story paragraph,Maybe,Maybe,Maybe,Yes
+R0069,2026-01-23,Weekly,Instagram,Mobile,Shareability,9-12,Card + stats,Yes,Maybe,Yes,Maybe
+R0070,2026-01-04,Daily,Search,Mobile,Shareability,9-12,Card + stats,Yes,Yes,Maybe,Maybe
+R0071,2026-01-12,Monthly,Instagram,Mobile,Cute art,9-12,Story paragraph,Maybe,Maybe,Maybe,Yes
+R0072,2026-01-24,Rarely,Friend/DM,Desktop,Speed,9-12,Card + stats,Yes,Yes,Yes,Yes
+R0073,2026-01-25,Weekly,TikTok,Mobile,Accuracy,13-16,Card + stats,No,Maybe,Yes,Maybe
+R0074,2026-01-19,Weekly,Instagram,Tablet,Cute art,5-8,All of these,Yes,Maybe,Maybe,Yes
+R0075,2026-01-07,Weekly,Other,Mobile,Cute art,9-12,Story paragraph,Yes,Yes,Maybe,Yes
+R0076,2026-01-08,Daily,Instagram,Tablet,Accuracy,13-16,Card + stats,No,Yes,Yes,Maybe
+R0077,2026-01-14,Daily,TikTok,Desktop,Funny results,9-12,All of these,Yes,Maybe,Yes,Yes
+R0078,2026-01-11,Weekly,Instagram,Mobile,Cute art,5-8,Card + stats,Maybe,Maybe,No,Yes
+R0079,2026-01-08,Monthly,Search,Mobile,Speed,5-8,All of these,No,No,Maybe,Maybe
+R0080,2026-01-10,Weekly,Friend/DM,Desktop,Funny results,13-16,All of these,Yes,Yes,Yes,No
+R0081,2026-01-19,Monthly,Discord,Mobile,Cute art,9-12,All of these,Yes,Yes,Yes,No
+R0082,2026-01-24,Weekly,Search,Mobile,Shareability,13-16,Card + stats,Maybe,Yes,Yes,Yes
+R0083,2026-01-22,Weekly,Friend/DM,Mobile,Funny results,17+,All of these,Maybe,No,No,Maybe
+R0084,2026-01-20,Weekly,TikTok,Desktop,Shareability,17+,All of these,Maybe,Yes,Maybe,Yes
+R0085,2026-01-17,Monthly,Instagram,Mobile,Speed,13-16,Card + stats,Yes,Maybe,Maybe,Yes
+R0086,2026-01-22,Rarely,Friend/DM,Mobile,Cute art,5-8,Simple card,Yes,Maybe,Maybe,Yes
+R0087,2026-01-16,Monthly,Instagram,Mobile,Cute art,5-8,Simple card,Maybe,Yes,Yes,Maybe
+R0088,2026-01-05,Weekly,Discord,Mobile,Shareability,17+,Card + stats,Maybe,Yes,Yes,Yes
+R0089,2026-01-28,Rarely,TikTok,Mobile,Speed,9-12,Card + stats,Yes,Yes,Yes,Yes
+R0090,2026-01-28,Rarely,Discord,Desktop,Shareability,13-16,All of these,Maybe,Yes,Maybe,No
+R0091,2026-01-12,Daily,Instagram,Mobile,Accuracy,13-16,Card + stats,No,Yes,Maybe,Yes
+R0092,2026-01-20,Monthly,Instagram,Mobile,Accuracy,9-12,All of these,Yes,No,Maybe,Yes
+R0093,2026-01-09,Monthly,Search,Tablet,Shareability,9-12,Card + stats,Maybe,Maybe,Yes,No
+R0094,2026-01-26,Monthly,Instagram,Mobile,Cute art,9-12,Simple card,Maybe,Yes,Maybe,Maybe
+R0095,2026-01-06,Weekly,Friend/DM,Mobile,Cute art,17+,Simple card,Yes,Maybe,Yes,Maybe
+R0096,2026-01-09,Rarely,TikTok,Mobile,Cute art,17+,All of these,Yes,Maybe,Yes,Yes
+R0097,2026-01-28,Weekly,Friend/DM,Mobile,Funny results,5-8,Simple card,Yes,Yes,Maybe,Yes
+R0098,2026-01-27,Weekly,Search,Mobile,Shareability,13-16,Card + stats,Yes,Yes,Maybe,Maybe
+R0099,2026-01-30,Rarely,Search,Mobile,Accuracy,17+,Simple card,Yes,Maybe,Maybe,Maybe
+R0100,2026-01-23,Weekly,TikTok,Mobile,Accuracy,5-8,Card + stats,Maybe,Yes,Yes,Yes
+R0101,2026-01-08,Monthly,TikTok,Mobile,Accuracy,13-16,Simple card,Maybe,Yes,No,Yes
+R0102,2026-01-01,Rarely,Instagram,Mobile,Cute art,13-16,All of these,Yes,Yes,Maybe,Yes
+R0103,2026-01-05,Weekly,TikTok,Mobile,Funny results,9-12,Simple card,Maybe,No,Maybe,Maybe
+R0104,2026-01-23,Rarely,TikTok,Mobile,Shareability,5-8,All of these,Yes,Maybe,Maybe,Maybe
+R0105,2026-01-12,Daily,Discord,Desktop,Cute art,13-16,Card + stats,Maybe,No,Yes,Yes
+R0106,2026-01-09,Weekly,Other,Desktop,Cute art,5-8,Card + stats,Maybe,Maybe,Maybe,No
+R0107,2026-01-05,Rarely,Search,Mobile,Cute art,13-16,Story paragraph,No,Yes,Yes,Yes
+R0108,2026-01-09,Weekly,TikTok,Mobile,Funny results,9-12,Card + stats,Yes,Maybe,Yes,No
+R0109,2026-01-18,Weekly,Search,Mobile,Accuracy,13-16,Card + stats,Yes,No,Yes,No
+R0110,2026-01-15,Weekly,TikTok,Mobile,Cute art,13-16,Card + stats,Maybe,Maybe,No,Maybe
+R0111,2026-01-10,Weekly,Discord,Mobile,Speed,9-12,Card + stats,Maybe,Yes,Yes,Maybe
+R0112,2026-01-30,Weekly,Friend/DM,Mobile,Cute art,9-12,Card + stats,No,No,Yes,Yes
+R0113,2026-01-22,Monthly,TikTok,Mobile,Accuracy,13-16,All of these,Maybe,Maybe,No,Yes
+R0114,2026-01-05,Rarely,Instagram,Mobile,Accuracy,5-8,Card + stats,Maybe,Yes,Yes,Yes
+R0115,2026-01-19,Rarely,Instagram,Mobile,Accuracy,5-8,Card + stats,Yes,Yes,Maybe,Maybe
+R0116,2026-01-28,Weekly,TikTok,Mobile,Accuracy,5-8,Story paragraph,Yes,Maybe,Yes,Maybe
+R0117,2026-01-04,Weekly,Discord,Desktop,Funny results,9-12,All of these,Yes,No,Yes,Maybe
+R0118,2026-01-05,Weekly,Instagram,Mobile,Funny results,9-12,All of these,Yes,Maybe,No,Maybe
+R0119,2026-01-08,Rarely,Friend/DM,Desktop,Cute art,9-12,Card + stats,Yes,Maybe,Maybe,Yes
+R0120,2026-01-23,Weekly,Instagram,Desktop,Shareability,5-8,Simple card,Yes,No,Yes,Maybe
+R0121,2026-01-07,Rarely,Instagram,Mobile,Accuracy,13-16,Card + stats,Yes,No,Maybe,No
+R0122,2026-01-09,Monthly,Search,Mobile,Cute art,5-8,All of these,Maybe,Maybe,Maybe,Yes
+R0123,2026-01-29,Monthly,Discord,Mobile,Funny results,17+,Card + stats,Maybe,Yes,Yes,Maybe
+R0124,2026-01-01,Monthly,Friend/DM,Mobile,Funny results,9-12,Story paragraph,Maybe,Yes,Yes,No
+R0125,2026-01-04,Weekly,Friend/DM,Mobile,Speed,9-12,Card + stats,Yes,No,Maybe,Yes
+R0126,2026-01-12,Weekly,Friend/DM,Mobile,Cute art,5-8,Story paragraph,Maybe,Maybe,Yes,Maybe
+R0127,2026-01-22,Weekly,Discord,Mobile,Cute art,9-12,Simple card,Maybe,Yes,Yes,Maybe
+R0128,2026-01-23,Weekly,TikTok,Desktop,Funny results,13-16,All of these,No,Yes,Yes,Yes
+R0129,2026-01-13,Weekly,Search,Mobile,Speed,5-8,Card + stats,Maybe,Maybe,Maybe,No
+R0130,2026-01-11,Weekly,TikTok,Mobile,Cute art,9-12,Story paragraph,Yes,Yes,Yes,No
+R0131,2026-01-18,Weekly,Friend/DM,Mobile,Speed,5-8,Simple card,Maybe,Maybe,Maybe,Maybe
+R0132,2026-01-28,Weekly,Discord,Mobile,Funny results,13-16,Card + stats,Maybe,Maybe,No,Yes
+R0133,2026-01-02,Weekly,Instagram,Mobile,Accuracy,13-16,Simple card,Maybe,Maybe,No,Maybe
+R0134,2026-01-29,Weekly,Friend/DM,Mobile,Cute art,13-16,Card + stats,No,No,Yes,Yes
+R0135,2026-01-12,Rarely,Instagram,Mobile,Speed,9-12,Card + stats,Yes,Maybe,Yes,Yes
+R0136,2026-01-23,Daily,Instagram,Desktop,Funny results,9-12,All of these,Yes,Yes,Maybe,Yes
+R0137,2026-01-16,Rarely,Instagram,Tablet,Shareability,13-16,All of these,Yes,Yes,Yes,Maybe
+R0138,2026-01-14,Rarely,Discord,Desktop,Funny results,13-16,Simple card,Maybe,Maybe,Yes,Yes
+R0139,2026-01-01,Monthly,Instagram,Mobile,Funny results,9-12,Card + stats,Yes,Yes,Maybe,Yes
+R0140,2026-01-11,Weekly,Instagram,Mobile,Shareability,9-12,All of these,Yes,Yes,Yes,Maybe
+R0141,2026-01-09,Daily,Friend/DM,Mobile,Cute art,5-8,All of these,Yes,No,Maybe,Maybe
+R0142,2026-01-24,Weekly,Discord,Mobile,Speed,9-12,Simple card,No,Maybe,Maybe,Yes
+R0143,2026-01-22,Daily,Instagram,Desktop,Cute art,9-12,Card + stats,Yes,Yes,Yes,Maybe
+R0144,2026-01-08,Weekly,TikTok,Mobile,Shareability,5-8,Card + stats,Maybe,Maybe,Maybe,Maybe
+R0145,2026-01-07,Monthly,Search,Mobile,Cute art,5-8,Story paragraph,Maybe,Yes,Maybe,Yes
+R0146,2026-01-16,Weekly,TikTok,Desktop,Speed,9-12,Simple card,Yes,No,No,Yes
+R0147,2026-01-09,Weekly,TikTok,Desktop,Funny results,9-12,All of these,Maybe,No,Maybe,No
+R0148,2026-01-28,Monthly,Friend/DM,Mobile,Funny results,17+,All of these,No,Maybe,Maybe,Yes
+R0149,2026-01-21,Weekly,Search,Mobile,Shareability,13-16,Simple card,Yes,Yes,No,Maybe
+R0150,2026-01-21,Weekly,TikTok,Desktop,Funny results,13-16,Card + stats,Yes,Maybe,Yes,Maybe
