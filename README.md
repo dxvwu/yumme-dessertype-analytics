@@ -26,7 +26,8 @@ Note: Phase 1 data is synthetic and is not presented as real user research.
 
 ## Repo Structure
 
-_synthetic_research_phase/
+```text
+synthetic_research_phase/
   survey_data/
     dessertype_survey_synthetic_mc_only_clean.csv
   sql_queries/
@@ -34,9 +35,10 @@ _synthetic_research_phase/
   notes/
     findings_summary.md
 
-_real_research_phase/ (placeholder)
+real_research_phase/ (placeholder)
 
-_engagement_analytics_phase/ (placeholder)
+engagement_analytics_phase/ (placeholder)
+```
 
 ---
 
@@ -59,3 +61,4 @@ _engagement_analytics_phase/ (placeholder)
 ## Project Context
 
 DessertType is part of Yumme.club, a cozy illustrated quiz experience designed to create highly shareable, collectible personality results.
+
